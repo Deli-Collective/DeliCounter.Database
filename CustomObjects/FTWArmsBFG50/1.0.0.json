@@ -1,0 +1,20 @@
+{
+  "VersionNumber": "1.0.0",
+  "Name": "FTW Arms BFG-50",
+  "Description": "Always check your SLAP rounds...\r\n\r\nIntroducing the BFG-50! A bolt-action anti-materiel rifle, while it only has one shot, it's consistently lethal and nigh guaranteed to kill.\r\nSpeaking of consistently lethal, this mod comes with .50 BMG SLAP rounds! Just... Make sure you're using the right ones.",
+  "ShortDescription": ".50 BMG Anti-Materiel Rifle + .50 BMG SLAP ammo",
+  "IconUrl": "https://i.imgur.com/x7t5lRb.jpeg",
+  "PreviewImageUrl": "https://i.imgur.com/x7t5lRb.jpeg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/536/",
+  "Authors": [
+    "Andrew_FTW"
+  ],
+  "DownloadUrl": "https://bonetome.com/download.php?file=OTUzZWNlOGMzMzc1MGIzNSsrMTgwOA==",
+  "Dependencies": {
+    "OtherLoader": "^0.2.0"
+  },
+  "InstallationSteps": [
+    "extract $GAME_DIR/Deli/mods"
+  ],
+  "IsBeta": false
+}
