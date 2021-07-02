@@ -1,0 +1,20 @@
+{
+  "VersionNumber": "1.1.0",
+  "Name": "FTW Arms Mk-18 Mjölnir",
+  "Description": "At only 100k rubles per shot, you too can run the Mk-18 Mjölnir in the hallways of Take and Hold.",
+  "ShortDescription": ".338 Lapua Battle Rifle",
+  "IconUrl": "https://i.imgur.com/o7TZGtm.jpeg",
+  "PreviewImageUrl": "https://i.imgur.com/o7TZGtm.jpeg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/540/",
+  "Authors": [
+    "Andrew_FTW"
+  ],
+  "DownloadUrl": "https://bonetome.com/download.php?file=MDFkZWVhZGQ2OWI0Mzc4NysrMTgzMg==",
+  "Dependencies": {
+    "OtherLoader": "^0.2.0"
+  },
+  "InstallationSteps": [
+    "extract $GAME_DIR/Deli/mods"
+  ],
+  "IsBeta": false
+}
