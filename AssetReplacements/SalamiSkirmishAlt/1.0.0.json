@@ -1,0 +1,13 @@
+{
+  "Name": "(Heroic Ver.) Salami Skirmish - TnH Music Overhaul",
+  "VersionNumber": "1.0.0",
+  "Description": "Ever wanted Take and Hold to sound more dangerous? More frantic? Then this is the mod for you!\nThis mod replaces every single file in the original Take and Hold music bank with original music by me. The mod includes the Heroic sounding variant that is more uplifting and light-hearted sounding with a lot of piano, and a quieter version is available on Bonetome for accessibility or any other reason.\nLink to full song on Youtube:\nhttps://youtu.be/MF21C-Gt_7g\nLink to video showing how the 2 variants sound in game:\nhttps://youtu.be/9W6Xrb-IMZo",
+  "ShortDescription": "Replaces all music in Take and Hold with new original compositions.",
+  "Authors": ["Wmafranz"],
+  "IconUrl": "https://i.imgur.com/bVZF4BI.png",
+  "SourceUrl": "http://bonetome.com/h3vr/mods/544/",
+  "DownloadUrl": "https://www.googleapis.com/drive/v3/files/1YhJbM1KW5WkGNUtJBzuq4eXRcu_FAn3Q?alt=media&key=AIzaSyBnrN3XcmvM0Nf0GViVVhWON8CbaAYuEAs",
+  "InstallationSteps": ["extract $GAME_DIR\\h3vr_Data\\StreamingAssets"],
+  "Dependencies": {
+  }
+}
