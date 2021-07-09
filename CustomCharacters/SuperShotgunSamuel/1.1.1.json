@@ -1,0 +1,14 @@
+{
+  "VersionNumber": "1.1.1",
+  "Name": "Super Shotgun Samuel",
+  "Description": "Shotguns, shotguns, more shotguns.",
+  "IconUrl": "https://i.imgur.com/zGXfQQm.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/532/",
+  "Authors": ["redtwopoitoh"],
+  "DownloadUrl": "https://bonetome.com/download.php?file=YjJkOTZhMWJjMTBkZGI2MCs0MDk1KzE3OTI=",
+  "Dependencies": {
+    "TNHTweaker": "^1.6.0"
+  },
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\Mods"],
+  "IsBeta": false
+}
