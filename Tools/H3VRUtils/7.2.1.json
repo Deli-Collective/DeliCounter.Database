@@ -1,15 +1,15 @@
 {
-  "VersionNumber": "8.0.0",
+  "VersionNumber": "7.2.1",
   "Name": "H3VR Utils",
   "Description": "Modding library for H3VR",
   "ShortDescription": "Modding library for H3VR",
   "IconUrl": "https://i.imgur.com/rcMDLuH.png",
-  "SourceUrl": "https://bonetome.com/h3vr/mods/160/",
+  "SourceUrl": "https://h3vr.thunderstore.io/package/WFIOST/H3VRUtilities/7.2.1/",
   "Authors": [
     "Potatoes",
     "Frityet"
   ],
-  "DownloadUrl": "https://bonetome.com/download.php?file=MTRmZjdkYWM4M2YzNDdmNCsrODUx",
+  "DownloadUrl": "https://h3vr.thunderstore.io/package/download/WFIOST/H3VRUtilities/7.2.1/",
   "Dependencies": {
     "BepInEx": "^5.4.5",
     "Sideloader": "~0.3.3"
@@ -17,5 +17,5 @@
   "InstallationSteps": [
     "extract $GAME_DIR\\Mods"
   ],
-  "IsBeta": true
+  "IsBeta": false
 }
