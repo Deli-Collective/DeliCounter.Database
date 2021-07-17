@@ -1,0 +1,14 @@
+{
+  "Name": "FN F2000",
+  "VersionNumber": "1.0.0",
+  "Description": "A new detailed model of the universally cherished FN F2000 with unique attachments and multiple interactable parts.",
+  "ShortDescription": "A new detailed model of the universally cherished FN F2000 with unique attachments and multiple interactable parts.",
+  "Authors": ["EdisLeado"],
+  "IconUrl": "https://i.imgur.com/pPQG5Yv.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/575/",
+  "DownloadUrl": "https://bonetome.com/h3vr/weapons/575/",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods/"],
+  "Dependencies": {
+    "OtherLoader": "^0.1.6"
+  }
+}
