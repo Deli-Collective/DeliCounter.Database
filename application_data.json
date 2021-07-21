@@ -1,5 +1,5 @@
 {
-  "LatestApplicationVersion": "1.1.2",
-  "UpdateText": "- Small fix to a large problem. If you're seeing this message it didn't affect you.",
+  "LatestApplicationVersion": "9.9.9",
+  "UpdateText": "Deli Counter will cease to function the moment BoneTome goes offline. I recommend switching to r2modman for Thunderstore.",
   "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v1.1.2"
 }
